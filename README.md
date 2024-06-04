@@ -1,6 +1,7 @@
 # Pass.in
+Event list management application developed during my React and Nodejs studies.
 
-Project in development.
+![preview](./public/demo.png)
 
 ## 👩🏾‍💻 Technologies
 
